@@ -1,0 +1,22 @@
+HTML sempre com o conteúdo da página, CSS a formatação/estilo dela.
+CSS - head, tag style
+HTML - tags head, fotter, main, body, nav, side, header, div, img, fig
+--------------------- recapitulação ------------------------------
+
+#09/09/2025 - Professor Papagaio
+#Módulo 02, aula 02-010-CSS, aula 3 do módulo
+estilo da pagina e modelagem do site, pesquisa na web sobre tipos de site <- aula de hoje
+
+.div identifica todos os objetos da classe
+#div identifica o id(um obejto)
+
+personalizações:
+font-family, font-size, font-weight, color e backgroud-color
+
+novas: 
+border e padding
+
+border: top, left, bottom e right
+topo, direita, baixo e esquerda é a ordem
+
+RGB - RED, GREEN e BLUE, sistema de combinação com essas bases, começa com #XXYYZZ(dois caracteres para cada uma das cores do RGB), cada um variando de 00-FF(padrão hexadecimal)
