@@ -1,0 +1,5 @@
+container e grid
+container = div.row
+div.row = col
+
+ATENÇÃO AO USO DAS DIV, fechar a div de container, linha e coluna sempre
