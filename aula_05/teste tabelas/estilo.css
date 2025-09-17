@@ -1,0 +1,62 @@
+body {
+    padding: 20px;
+    background-color:#f8d2d2;
+    }
+
+header {
+    border-bottom: solid px black;
+    margin-bottom: 10px;
+    
+    }
+
+footer{
+    border-top: solid 5px black;
+    margin-top: 10px
+
+}
+
+.caixa{
+border-style: solid;
+border-width: 3px;
+border-color: black;
+margin: 5px;
+}
+
+.tabela_basica{
+    border-style: solid;
+    border-collapse: collapse;
+    border-color: rgb(0, 0, 0);
+    border-width: 3px;
+    width: 80%;
+    margin: 20px auto;
+    font-family:Arial, sans serif;
+    text-align: center;
+}
+
+.tabela_basica thead th{
+    background-color: rgb(247, 137, 148);
+    border: 1px solid #000000;
+    padding: 10px;
+    font-weight: bold;
+
+}
+
+.tabela_basica tbody td{
+    border: 1px solid #333;
+    padding: 20px;
+}
+
+.tabela_zebra tbody tr:nth-child(even){
+    background-color: #ffb5b5;
+}
+
+.tabela_zebra tbody tr:nth-child(odd){
+    background-color: #e89f9f;
+}
+
+.tabela_zebra tbody tr:hover {
+    background-color: #ab7272;
+    color:rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
