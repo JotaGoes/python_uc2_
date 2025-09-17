@@ -1,0 +1,42 @@
+
+body {
+    padding: 0%;
+    }
+
+header {
+    border-bottom: solid px black;
+    margin-bottom: 20px;
+    
+    }
+
+footer{
+    border-top: solid 5px black;
+    margin-top: 10px
+
+}
+
+.caixa{
+border-style: solid;
+border-width: 3px;
+border-color: black;
+margin: 5px;
+}
+
+.tabela_basica{
+    width: 100%;
+    font-family:Arial, sans serif;
+    text-align: center;
+    background-color: rgb(211, 211, 211);
+}
+
+.tabela_basica thead th{
+    background-color: rgb(0, 0, 0);
+    border: 1px solid #000000;
+    font-weight: bold;
+    color: white;
+
+}
+
+.tabela_basica tbody td{
+    padding: 10px;
+}
